@@ -1,2 +1,2 @@
 # react-web-component
-A reusable web component in React
+A web component having inbuild capability of handling type-ahead in UI forms.
